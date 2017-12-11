@@ -30,6 +30,7 @@ public class AwsEc2JlistRunner {
 	
     public static void main(String[] args) throws Exception {
 
+    	
     	/**
          * Get the list AWS regions
          */
